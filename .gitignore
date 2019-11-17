@@ -1,8 +1,6 @@
 noise_generation/lsun/
 noise_generation/tmp/
 noise_generation/grayscale/
-
-
-
+noise_generation/rgb/
 
 runcmd.txt
